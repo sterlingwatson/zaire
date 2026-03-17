@@ -12,7 +12,7 @@ type: faction
 
 ## Overview
 
-The Thornwood Court is the oldest of the [[Four Diminished Courts|four courts]] — and "court" is almost too structured a word for what they are. They predate the structure of courts entirely. They are what the [[Fey Wild]] **is** at its most primal: the residue of divine death given form, the part of [[Yaaw]]'s creation that never wanted to be named or organized.
+The Thornwood Court is the oldest of the [[Four Diminished Courts|four courts]] and "court" is almost too structured a word for what they are. They predate the structure of courts entirely. They are what the [[Fey Wild]] **is** at its most primal: the residue of divine death given form, the part of [[Yaaw]]'s creation that never wanted to be named or organized.
 
 Hags. Unicorns. The great speaking trees. Things with too many eyes and no clear shape. The Thornwood Court is all of these.
 
@@ -24,7 +24,7 @@ See also: [[On Faeries]], [[The Hooded One]], [[The Hedge]]
 
 The Thornwood Court and the Fey Wild are not fully separable. To corrupt the Fey Wild is to corrupt the Thornwood Court. To heal the Fey Wild is to heal the Thornwood Court. They are the same thing at the root.
 
-This is why [[The Hooded One]]'s takeover of the Fey Wild has hit them hardest of all the courts — his hatred is not contained to a part of the Fey, it infects the whole, and the Thornwood Court *is* the whole.
+This is why [[The Hooded One]]'s takeover of the Fey Wild has hit them hardest of all the courts his hatred is not contained to a part of the Fey, it infects the whole, and the Thornwood Court *is* the whole.
 
 ---
 

@@ -3,6 +3,7 @@ title: Kempeir Secrets
 tags:
   - adventure
 type: adventure
+draft: "true"
 ---
 
 ### [[The Iron Eels Guild Hall]]
