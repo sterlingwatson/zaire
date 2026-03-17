@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "sterlingwatson.github.io/daggerheart",
+    baseUrl: "sterlingwatson.github.io/zaire",
     ignorePatterns: [
       "99 - Archive",
       "00 - Templates",
