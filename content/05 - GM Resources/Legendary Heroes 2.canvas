@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0aa26c884d9d8cc1","x":-1120,"y":-395,"width":640,"height":1241,"type":"file","file":"attachments/Screenshot 2025-11-15 at 12.56.15 PM.png"},
+		{"id":"6b3f29c80dae2bba","x":-480,"y":-480,"width":597,"height":680,"type":"file","file":"attachments/Screenshot 2025-11-15 at 12.56.28 PM.png"},
+		{"id":"ea241a6df50e402c","x":-480,"y":200,"width":597,"height":633,"type":"file","file":"attachments/Screenshot 2025-11-15 at 12.57.06 PM.png"},
+		{"id":"af600fce262cc3f3","x":340,"y":-480,"width":1140,"height":655,"type":"file","file":"Elven Empire Wizard.md"},
+		{"id":"0d29146f53577c39","x":1480,"y":-465,"width":625,"height":785,"type":"file","file":"Elven Knight.md"},
+		{"id":"ff3acef435b4edb8","x":340,"y":240,"width":1140,"height":600,"type":"file","file":"Karalith, Elven Leader.md"}
+	],
+	"edges":[]
+}

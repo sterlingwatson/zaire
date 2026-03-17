@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"a664a90086aa300a","type":"file","file":"the pharaoh.png","x":-1440,"y":-1031,"width":920,"height":1730},
+		{"id":"12b009f87d794c27","type":"file","file":"DUSK ARCHER.png","x":-520,"y":-1205,"width":835,"height":970},
+		{"id":"f2ea3617f9776673","type":"file","file":"FOUR-ARMED HUSK.png","x":-520,"y":-220,"width":851,"height":936},
+		{"id":"923e9d953bf09788","type":"file","file":"SCARAB COLOSSUS.png","x":315,"y":-1205,"width":755,"height":970},
+		{"id":"41ce2d52437c8c0d","type":"file","file":"SCARAB SWARM.png","x":315,"y":-220,"width":891,"height":936},
+		{"id":"d41654cb19be88dd","type":"file","file":"The Pyramid of First Anchoring.md","x":1206,"y":-220,"width":1594,"height":2140},
+		{"id":"6979302232dd6c80","type":"file","file":"The Three Realms.md","x":2800,"y":-220,"width":400,"height":400},
+		{"id":"441fa36ef7ad6397","type":"file","file":"The Chrysalis Court.md","x":-1440,"y":800,"width":400,"height":400},
+		{"id":"f524b50308def8d0","type":"file","file":"The Hollow Court.md","x":-980,"y":800,"width":400,"height":400},
+		{"id":"a8a172ecfe4ce8f5","type":"file","file":"The Thornwood Court.md","x":-520,"y":800,"width":400,"height":400},
+		{"id":"525e139231ba7a0d","type":"file","file":"The Gilded Court.md","x":-1440,"y":1280,"width":400,"height":400}
+	],
+	"edges":[]
+}

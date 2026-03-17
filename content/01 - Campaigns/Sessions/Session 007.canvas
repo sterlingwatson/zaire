@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"9c924390a171e80c","type":"text","text":"","x":-3065,"y":-525,"width":250,"height":60},
+		{"id":"af3266c0658a127d","type":"file","file":"06 - Media/Pasted image 20251108123653.png","x":1200,"y":1440,"width":4179,"height":2789},
+		{"id":"1f90dcc6e03c14c0","type":"file","file":"Yathrak, Akavarii Leader.md","x":-1680,"y":-1040,"width":920,"height":800},
+		{"id":"f81c46d0735c3765","type":"file","file":"Lord Protector Morcwell.md","x":-720,"y":-1040,"width":1040,"height":800},
+		{"id":"f39b6487dcbd56d4","type":"file","file":"Lighthouse Prison Break.md","x":520,"y":-1138,"width":1000,"height":1080},
+		{"id":"fa57ebb227f6eda9","type":"file","file":"Akavarii Yumi Samurai.md","x":-697,"y":-200,"width":1017,"height":560},
+		{"id":"f477a2314dc072b6","type":"file","file":"attachments/Pasted image 20251108140740.png","x":-1760,"y":640,"width":560,"height":747},
+		{"id":"3967c22fc7d522b8","type":"file","file":"attachments/Pasted image 20251108140831.png","x":-1760,"y":1440,"width":560,"height":842},
+		{"id":"4cc81a0605efd475","type":"file","file":"attachments/Pasted image 20251108141006.png","x":-1160,"y":640,"width":580,"height":747},
+		{"id":"bf8a1dc1dbbe42a2","type":"file","file":"attachments/Pasted image 20251108140903.png","x":-1160,"y":1440,"width":580,"height":781},
+		{"id":"5031d4ae3705db75","type":"link","url":"https://www.youtube.com/watch?v=uPAfgWAb6Qo","x":-3360,"y":-958,"width":640,"height":360,"color":"5"},
+		{"id":"247cced8e450355f","type":"link","url":"https://www.youtube.com/watch?v=EApZmmYg_oQ","x":1520,"y":-1138,"width":640,"height":360},
+		{"id":"45005b48553ff5e7","type":"text","text":"","x":-561,"y":-1941,"width":250,"height":60},
+		{"id":"232d46453d25e007","type":"text","text":"Music for the Prison Break","x":1520,"y":-1280,"width":210,"height":50},
+		{"id":"460dcf43b1caac70","type":"text","text":"Ship Ambiance","x":-3002,"y":-1035,"width":250,"height":60,"color":"5"},
+		{"id":"7d717383504b7871","type":"text","text":"### Fey Wild\n\nYou are all of a sudden transported in a moment to a glisten autumn wood. The leave are falling at a rate similar to rain. \n\n# Rotten Unicorn:\n\tYou see a unicorn, half rotted with out eyes, its guts open and spilling out in a clearing in the woods. It glances at you and you feel as if it sees thorugh your soul\n\n# Fey Gnomes\n\n\tA small group of corrupted gnomes in the process of being transformed into red caps.\n\n","x":640,"y":2080,"width":492,"height":755},
+		{"id":"054aeb2af0ca08ea","type":"link","url":"https://youtu.be/FGs_8W839kI","x":492,"y":1480,"width":640,"height":404},
+		{"id":"b74141bce02e63e6","type":"text","text":"","x":287,"y":3123,"width":250,"height":60},
+		{"id":"5de3056902bc491b","type":"text","text":"","x":-82,"y":1022,"width":250,"height":60},
+		{"id":"c9baf73d01bb68e0","type":"text","text":"https://youtu.be/tBI63CPbW9c","x":-732,"y":-1284,"width":412,"height":184},
+		{"id":"05b04ea729fb86dc","type":"file","file":"Akavarii Katana Samurai.md","x":-1680,"y":-215,"width":960,"height":590}
+	],
+	"edges":[
+		{"id":"3bb02cc60d31d018","fromNode":"232d46453d25e007","fromSide":"bottom","toNode":"247cced8e450355f","toSide":"top"},
+		{"id":"f57c52cfeb90b8ee","fromNode":"7d717383504b7871","fromSide":"top","toNode":"054aeb2af0ca08ea","toSide":"bottom"}
+	]
+}

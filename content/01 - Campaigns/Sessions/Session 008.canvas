@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"386fefc3a4906aa5","x":1193,"y":-352,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3adba19d569fac8f","x":-480,"y":-340,"width":400,"height":1100,"type":"file","file":"Lord Protector Morcwell.md"},
+		{"id":"954b55ec1f622236","x":-80,"y":-340,"width":400,"height":1280,"type":"file","file":"Lord Protector Morcwell (Phase 2).md"},
+		{"id":"e6cba3f5e6777f5d","x":800,"y":-200,"width":389,"height":104,"type":"text","text":"Lonely Shiamisan (for drawing session)\n\nhttps://www.youtube.com/watch?v=g4iBIaplFsw&t=802s"},
+		{"id":"fbe8f342f67d7ed8","x":800,"y":-40,"width":389,"height":120,"type":"text","text":"Battle Music\n\nhttps://www.youtube.com/watch?v=-6krAYK2LLo&list=PL1F4CD20E92203D08"},
+		{"id":"24d945be6bc54b63","x":800,"y":-380,"width":389,"height":140,"type":"text","text":"Music for introduction to battle field\n\nhttps://www.youtube.com/watch?v=eZZ6b_OMpxs&list=PLjEnIyRQb7E4sfPCWQHx530etWPycvP8U&index=1"},
+		{"id":"ea90597accaba4fe","x":800,"y":-558,"width":389,"height":138,"type":"text","text":"Music for the Boat\n\nhttps://www.youtube.com/watch?v=3G4NKzmfC-Q"},
+		{"id":"b4a20eb823f5bad2","x":320,"y":-489,"width":480,"height":749,"type":"text","text":"**The Battlefield**\n\nAs you climb up the cliff side up to the moor, pearched on a hill at the pinicle of the pennesula you see a stone circle, think stonehedge, where the blood red light is eminating from the center.\n\nAround the stone circle are 5 orcs arranged equal distanced around the stone circle. From you viewpoint you see Morcwell standing in the stone circle above what seems to be an alter.\n\nProjected above the alter you see a hooded figure with broad black wings and glowing eyes. Gearson, you hear the figure say \n\n\"Finish this ritual, gain you power, and bring to me the souls that I require.\"\n\nHe then seems to notice you.\n\n\"Looks like those troublesome adventures have come to you. Finish this Morcwell\"\n\nMorcwell turns to face you and draws his no-daichi which ripples with blood and shadow magic. "}
+	],
+	"edges":[
+		{"id":"0ba4ee5ede07e590","fromNode":"e6cba3f5e6777f5d","fromSide":"bottom","toNode":"fbe8f342f67d7ed8","toSide":"top"},
+		{"id":"2840418fd11828ba","fromNode":"24d945be6bc54b63","fromSide":"bottom","toNode":"e6cba3f5e6777f5d","toSide":"top"},
+		{"id":"20efcb3c1f98dc51","fromNode":"ea90597accaba4fe","fromSide":"bottom","toNode":"24d945be6bc54b63","toSide":"top"}
+	]
+}
