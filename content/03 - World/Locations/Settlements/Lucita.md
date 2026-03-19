@@ -2,7 +2,6 @@
 title: Lucita
 tags:
   - location
-  - [location, daggerheart]
 type: location
 ---
 
@@ -29,9 +28,9 @@ type: location
 - On a social level this is a devout community, strict religious doctrine is observed, and outsiders are generally unwelcome if they could reach here.
 
 ### Notable Features
-- A large alter to [[Sar'eth]] a dragon believed to have been sealed here by folk legend [[99 - Archive/Bartholomew]]
+- A large alter to [[Sar'eth]] a dragon believed to have been sealed here by folk legend [[Bartholomew the Chainbreaker]]
 - The Lucitians have a complicated relationship with [[Sar'eth]]. It is a worship of fear as well as reverence. They have been tasked by their ancestors with keeping the dragon asleep and locked away. For centuries this was thought to have been done with sacrifices and offerings. Sometimes of livestock, but recently of people as the [[Blessed One of Lucita]] became increasing concerned with the increase of magma and heat.
-- Some trade as been known to take place with the dwarves of [[Nishunos]] along the subterranean [Orange Highway] 
+- Some trade as been known to take place with the dwarves of [[Nishunos]] along the subterranean [[Orange Highway]] 
 
 ## Important Locations
 ### [Alter of Sar'eth]
@@ -39,20 +38,6 @@ type: location
 - **Purpose:** 
 - **Notable NPCs:** 
 - **Connections:** 
-
-## NPCs Present
-- **** -
-- 
-
-## Threats & Adversaries
-- **** - 
-- 
-
-## Resources & Services
-- **Shops:** 
-- **Inns/Lodging:** 
-- **Services:** 
-- **Transportation:** 
 
 ## Plot Hooks
 - 

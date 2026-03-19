@@ -2,7 +2,6 @@
 title: Nishunos Kaliire
 tags:
   - location
-  - [location, daggerheart]
 type: location
 ---
 
@@ -11,13 +10,12 @@ type: location
 ## Basic Info
 - **Region:** [[The Blasted Lands]] [[Dwarven Triple Alliance]]
 - **Type:** #city
-- **Danger Level:** 
 - **Population:** ~16000
 
 ## Description
 ### Visual Description
-- A large dwarven city build into the [[Luminos Caverns]] deep in the mountains of the [Blasted Lands]. It has a tall palisade fascing the caverns. Surrounded by miles of grazing fields. The city is built almost like it is a hillfort, it is carved steeply. As you inter the front gate there is a long rounded street that serves at the [Nishunos Market Street] where dwarves, goblins and clanks sell many wares. 
-- The Market runs the length of the pallisade which includes a wide avenue. To the Northwest is the Orange Highway leading to the [[Meyshelle Mountians]]. To the East is the Bullet train terminal which connects to both [[Ushanragush]] far to the east and [[Arelgulunas]] to the north. Road also lead from here connecting any number of dwarven hamlets under the [[The Blasted Lands]]
+- A large dwarven city build into the [[Luminos Caverns]] deep in the mountains of the [[The Blasted Lands]]. It has a tall palisade facing the caverns. Surrounded by miles of grazing fields. The city is built almost like it is a hillfort, it is carved steeply. As you inter the front gate there is a long rounded street that serves at the Nishunos Market Street where dwarves, goblins and clanks sell many wares. 
+- The Market runs the length of the palisade which includes a wide avenue. To the Northwest is the Orange Highway leading to the [[Meyshelle Mountians]]. To the East is the Bullet train terminal which connects to both [[Ushanragush]] far to the east and [[Arelgulunas]] to the north. Road also lead from here connecting any number of dwarven hamlets under the [[The Blasted Lands]]
 - At the gate area there is also an intake area for famers and ranchers to unload their products
 
 ### Atmosphere

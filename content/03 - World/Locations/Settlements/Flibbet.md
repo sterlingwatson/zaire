@@ -1,5 +1,5 @@
 ---
-title: Flisbet
+title: Flibbet
 tags:
   - location
 type: location

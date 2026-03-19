@@ -2,7 +2,6 @@
 title: Mok Village
 tags:
   - location
-  - [location, daggerheart]
 type: location
 ---
 
@@ -11,7 +10,6 @@ type: location
 ## Basic Info
 - **Region:** [[Luminos Caverns]]
 - **Type:** 
-- **Danger Level:** 
 - **Population:** 
 
 ## Description
@@ -24,32 +22,6 @@ type: location
 ### Notable Features
 - A large pit the Mok call the nursery. This is where they deposit anything that decays to feed the great Mycelia. The wall are steep and muddy 120 ft high. The Mok have little qualms about throwing live people into the pit as they view the consciousness lost something else that could feed the Great Mycelia  
 - 
-
-## Important Locations
-### [Sublocation Name]
-- **Description:** 
-- **Purpose:** 
-- **Notable NPCs:** 
-- **Connections:** 
-
-## NPCs Present
-- **** -
-- 
-
-## Threats & Adversaries
-- **** - 
-- 
-
-## Resources & Services
-- **Shops:** 
-- **Inns/Lodging:** 
-- **Services:** 
-- **Transportation:** 
-
-## Plot Hooks
-- 
-- 
-
 ## Sessions Visited
 - 
 - 

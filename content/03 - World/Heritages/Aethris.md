@@ -15,14 +15,6 @@ homebrew: false
 
 The Aethris were the mortal agents of [[Corvina]], created to guide souls into and out of the [[Zaire|Mortal Plane]] on her behalf. They were not immortal. They were something between mortal and divine, beings shaped for a specific sacred function whose presence in the mortal realm was always temporary by design. In the current era, **the Aethris are gone**, Corvina has been lost and reincorporated into [[Yaaw]]. See [[The Aethris]] and [[Corvina]] for the full history.
 
-## Ancestry Features
-
-### Feature 1 — 
-> *Description*
-
-### Feature 2 — 
-> *Description*
-
 ## Appearance
 
 
