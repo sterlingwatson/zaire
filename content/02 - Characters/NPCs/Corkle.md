@@ -2,7 +2,6 @@
 title: Corkle
 tags:
   - npc
-  - [npc, daggerheart]
 type: npc
 status: alive
 ---
@@ -27,7 +26,6 @@ status: alive
 ### Motivations
 - **Wants:** To survive and keep living in the jungle with [[Smark]].
 - **Fears:** Being alone, being eaten by a hawk, being found by the queen.
-- **Secrets:** Knows a back way into the [Buzzing Jungle Hive]
 
 ## Relationships
 ### With PCs

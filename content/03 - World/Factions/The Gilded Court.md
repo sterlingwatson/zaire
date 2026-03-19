@@ -15,7 +15,7 @@ The Gilded Court were the gnome court of the [[Fey Wild]]  earth-fae, deeply cle
 
 They served as **brokers** for the elven slave trade. They knew the [[Fey Wild]] better than any elf ever could, and they used that knowledge to facilitate the taking of fae and goblins in exchange for protection and status.
 
-See also: [[On Gnomes]], [[Redcaps]], [[On Faeries]]
+See also: [[On Gnomes]], [[On Redcaps]], [[On Faeries]]
 
 ---
 
@@ -38,7 +38,7 @@ They were wrong on all counts, and some of them knew it even then.
 ## Current Status
 
 ### In the Fey Wild
-The majority of the Gilded Court have become [[Redcaps]]. [[The Hooded One]] destroyed this court **first and deliberately**, he views betrayal from within as the unforgivable sin.
+The majority of the Gilded Court have become [[On Redcaps]]. [[The Hooded One]] destroyed this court **first and deliberately**, he views betrayal from within as the unforgivable sin.
 
 ### In the Mortal Realm
 One community. **Immortal.** See [[On Gnomes]].

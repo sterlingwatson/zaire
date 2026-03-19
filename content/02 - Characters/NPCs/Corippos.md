@@ -1,25 +1,35 @@
 ---
-title: Pontifex Corippos
+title: Corippos
 tags:
   - npc
   - antagonist
 type: npc
-faction: Cult of the Radiant Sun
+faction: "[[The Cult of the Radiant Sun]]"
 status: alive
+location:
+date: 2026-03-18
+role:
+age:
 ---
 
-# Pontifex Corippos
+# Corippos
 
----
+## Appearance
 
-## Overview
 
-Pontifex Corippos is a leader within the [[Cult of the Radiant Sun]]. [[Borth]] and others in the [[Commonwealth]] seek to free the region from his influence.
+## Personality
+- **Traits:** 
+- **Mannerisms:** 
 
-See also: [[Cult of the Radiant Sun]], [[Borth]]
+## Motivations
+- **Wants:** 
+- **Fears:** 
 
----
+## Relationships
+- 
+## Backstory
 
-## Notes
 
-*Expand as the campaign develops.*
+## Sessions Appeared
+
+

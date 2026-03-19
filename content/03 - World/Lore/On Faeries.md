@@ -34,7 +34,7 @@ Faerie society was once organized into courts. The Elven Empire's systematic tak
 | [[Chrysalis Court]] | Insectoid fae | Scattered across the mortal realm             |
 | [[Hollow Court]]    | Goblins       | Fragmented, parts in both the mortal and fey. |
 | [[Thornwood Court]] | Ancient fae   | Deeply corrupted, nearly feral                |
-| [[Gilded Court]]    | Gnomes        | Mostly corrupted into [[Redcaps]]             |
+| [[Gilded Court]]    | Gnomes        | Mostly corrupted into [[On Redcaps]]             |
 
 ---
 

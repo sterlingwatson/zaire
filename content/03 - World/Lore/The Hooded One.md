@@ -52,7 +52,7 @@ In their fusion, both lost their individual restraint.
 
 ## The Hooded One and the Fey Wild
 
-The Hooded One has taken over much of the [[Fey Wild]]. Their hatred is not contained, it **infects**. The corruption spreads through the Fey like a sickness, warping the [[The Thornwood Court]] into feral shadows of themselves, and accelerating the transformation of [[The Gilded Court]] gnomes into [[Redcaps]].
+The Hooded One has taken over much of the [[Fey Wild]]. Their hatred is not contained, it **infects**. The corruption spreads through the Fey like a sickness, warping the [[The Thornwood Court]] into feral shadows of themselves, and accelerating the transformation of [[The Gilded Court]] gnomes into [[On Redcaps]].
 
 He has also infected the [[Anchors]] that lock the Fey Wild near the [[Mortal Plane]]. This sets up a dangerous convergence, when the anchors are destroyed, it is hard to say what will happen.
 

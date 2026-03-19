@@ -22,7 +22,7 @@ Those who use magic are uncommon. Most people will live their entire lives witho
 
 ## The Natural Magics
 
-The domains of **Midnight**, **Dread**, and **Arcana** exist in the fabric of the world itself. They are not taught in the traditional sense — the classes that use these magics either possess them innately or access them through their personal connection with the domain. These are magics of blood, instinct, shadow, and the raw forces that predate civilization.
+The domains of **Midnight** and **Arcana** exist in the fabric of the world itself. They are not taught in the traditional sense — the classes that use these magics either possess them innately or access them through their personal connection with the domain. These are magics of blood, instinct, shadow, and the raw forces that predate civilization.
 
 ---
 
@@ -30,7 +30,7 @@ The domains of **Midnight**, **Dread**, and **Arcana** exist in the fabric of th
 
 **Grace** and **Sage** are developed through lived experience and personal understanding of the craft.
 
-**Grace** operates through charisma — however the wielder expresses it. A storyteller's conviction, a diplomat's presence, an illusionist's showmanship. Grace magic is as personal as the person using it.
+**Grace** operates through charisma, however the wielder expresses it. A storyteller's conviction, a diplomat's presence, an illusionist's showmanship. Grace magic is as personal as the person using it. Often this magic is divine in someway, given to bards from [[Malort]] even if they don't know it.
 
 **Sage** operates through one's connection to the natural world. Druid circles, ritual hunters, and those who have spent years in deep relationship with wild places tend to develop Sage magic through accumulation rather than study.
 
@@ -40,37 +40,37 @@ The domains of **Midnight**, **Dread**, and **Arcana** exist in the fabric of th
 
 **Codex** and **Splendor** have dedicated institutions that further one's skills, though those institutions are narrow and specialized.
 
-**Codex** is the domain of bards' colleges, where illusion is the most valued discipline. Study is self-directed and mentored rather than formalized. A Codex practitioner typically begins with natural aptitude and refines it through apprenticeship.
+**Codex** is the domain of bards' colleges, where illusion is the most valued discipline. Study is self-directed and mentored rather than formalized. A Codex practitioner typically begins with natural aptitude and refines it through apprenticeship. In [[Zaire]] we see very few practitioners ever able to cast magic above level one domain spells.
 
-**Splendor** is the domain of temples. Priests, clerics, and those granted power directly by divine entities practice Splendor magic. The relationship is between the practitioner and their god, mediated by the temple's traditions.
+**Splendor** is the domain of temples. Priests, clerics, and those granted power directly by divine entities practice Splendor magic. The relationship is between the practitioner and their god, mediated by the temple's traditions. Though this is not always the case, some practitioners maintain the spark from raw communion with the divine.
 
-Wizards who specialize in both Codex and Splendor are rare. They typically begin as either a bard or a priest and spend years studying to develop the other. [[Wart]] is an exception to this pattern — but he is unusual.
+Wizards who specialize in both Codex and Splendor are rare. They typically begin as either a bard or a priest and spend years studying to develop the other. [[Wart]] is an exception to this pattern, but he is unusual.
 
 ---
 
 ## The Shadowed Magics
 
-**Blood** and **Dread** occupy a different space. Blood magic is associated with blood hunters and dark cults. Dread magic draws from infernal influences, fae bargains, and temples to gods with darker aspects. [[Corvina]]'s domains were Splendor and Dread — a combination that reflected her dual role as both life-bringer and soul-guide.
+**Blood** and **Dread** occupy a different space. Blood magic is associated with [[Blood Hunters|blood hunters]], [[Vampires|vampires]] and dark cults. Dread magic draws from infernal influences, fae bargains, and temples to gods with darker aspects. [[Corvina]]'s domains were Splendor and Dread, a combination that reflected her dual role as both life-bringer and soul-guide.
 
 ---
 
 ## Paths to Magic
 
-| Domain | Typical Paths |
-| --- | --- |
-| **Sage** | Druid circles, ritual hunters |
-| **Midnight** | Thieves' guilds, assassin groups |
-| **Blood** | Blood hunters, dark cults |
-| **Dread** | Infernal influences, fae bargains, temples to darker gods |
-| **Splendor** | Granted by divine entities directly |
-| **Codex** | Self-study and mentorship, bards' colleges |
-| **Grace** | Storytellers, illusionists, the circus |
-| **Arcana** | Innate ability, often unexplained |
+| Domain       | Typical Paths                                                        |
+| ------------ | -------------------------------------------------------------------- |
+| **Sage**     | Druid circles, ritual hunters                                        |
+| **Midnight** | Thieves' guilds, assassin groups                                     |
+| **Blood**    | Blood hunters, dark cults, vampires                                  |
+| **Dread**    | Infernal influences, fae bargains, invocation to a gods' darker side |
+| **Splendor** | Granted by divine entities directly                                  |
+| **Codex**    | Self-study and mentorship, bards' colleges                           |
+| **Grace**    | Storytellers, illusionists, the circus, bards' colleges              |
+| **Arcana**   | Innate ability, often unexplained                                    |
 
-The common thread is that all magic requires either innate ability paired with study (Codex, Splendor, Blood, Dread) or innate ability paired with lived experience (Grace, Midnight, Arcana, Sage). There is no path that begins without some spark of capacity. Not everyone can learn.
+The common thread is that all magic requires either innate ability paired with study (Codex, Splendor, Blood, Dread) or innate ability paired with lived experience (Grace, Midnight, Arcana, Sage). There is no path that begins without some spark of capacity. Not everyone can learn, though it is hard to tell if this is drastically influenced by the locking of [[The Three Realms]]
 
 ---
 
 ## Notes
 
-*Domain interactions with the [[The Three Realms|orbital cycle]] — whether certain magics are stronger when specific realms are close — to be explored.*
+*Domain interactions with the [[The Three Realms|orbital cycle]] 

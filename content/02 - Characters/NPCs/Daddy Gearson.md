@@ -2,7 +2,7 @@
 title: Daddy Gearson
 tags:
   - npc
-  - [npc, daggerheart]
+  - goblin
 type: npc
 status: alive
 ---

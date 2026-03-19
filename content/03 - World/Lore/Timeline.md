@@ -59,7 +59,7 @@ The revolt succeeds. The Elven Empire collapses at **IR 3139** — the year that
 
 [[Sar'eth]] destroys the centers of imperial power. The Legendary Heroes do not stop him. Some of them may have coordinated with him, or may have simply recognized that his targets were the same as theirs.
 
-Bartholomew and Sar'eth make their deal. They seal themselves in the volcano. The public story — that Bartholomew locked the dragon away — begins immediately, because the truth is too complicated and the world needs a simpler story in order to rebuild.
+Bartholomew and Sar'eth make their deal. They seal themselves in the volcano. The public story that Bartholomew locked the dragon away begins immediately, because the truth is too complicated and the world needs a simpler story in order to rebuild.
 
 **IR 3272 / FR 134:** The [[Jade Empire]] is founded in the east when the first Jade Emperor unites the eastern kingdoms against an Infernis invasion from the north. The eastern half of [[Solira]] begins counting its own calendar from this event.
 

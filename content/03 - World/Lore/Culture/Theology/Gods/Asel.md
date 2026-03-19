@@ -1,19 +1,20 @@
 ---
-title: Alma Blackgrove
+title: Asel
 tags:
+  - god
   - npc
-  - human
 type: npc
-status: dead
+faction: Elven and Fay Godess of Sun, Daylight, Agriculture
+status: alive
 ---
 
-# Alma Blackgrove
+# Asel
 
 ## Basic Info
-- **Location:** 
-- **Occupation/Role:** 
-- **Faction/Group:** Worshipper of [[Asel]]
-- **Status:** Dead
+- **Location:** [[Realms Above]]
+- **Occupation/Role:** #god of the Sun, Daylight, Agriculture
+- **Faction/Group:** 
+- **Status:** Alive
 
 ## Description
 ### Physical Appearance
@@ -31,11 +32,10 @@ status: dead
 
 ## Relationships
 ### With PCs
-- **:** 
 - 
 
 ### With Other NPCs
-- **[[Erris Othel]]:** Wife
+- **[[Sehanine]]:** Wife/Partner
 - 
 
 ## Story Hooks
@@ -44,7 +44,6 @@ status: dead
 
 ## Sessions Appeared
 - [[Session 001 - Buzzing Jungle 1]] - Role in session
-- [[Session 002 - The Great Hive]] - Turned into a drone
 - 
 
 ## Notes

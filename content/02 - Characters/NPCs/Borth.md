@@ -2,11 +2,11 @@
 title: Borth Rockbiter
 tags:
   - npc
-  - daggerheart
   - giant
 type: npc
-faction: Rockbiter Clan
+faction: "[[Rockbiter Clan]]"
 status: alive
+age: 28 in 812 FR
 ---
 
 # Borth Rockbiter

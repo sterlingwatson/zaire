@@ -2,6 +2,7 @@
 title: Anos
 tags:
   - npc
+  - faun
 type: npc
 status: alive
 ---

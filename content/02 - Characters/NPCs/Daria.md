@@ -2,7 +2,7 @@
 title: Daria
 tags:
   - npc
-  - [npc, daggerheart]
+  - human
 type: npc
 status: alive
 ---

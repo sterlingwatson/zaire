@@ -15,7 +15,7 @@ type: lore
 
 Gnomes are the mortal-realm remnant of the [[Gilded Court]] — the fae court that served as brokers for the Elven Empire's taking of fae and goblins from the [[Fey Wild]]. Their presence in the mortal realm is not innocent. Their immortality is not accidental.
 
-See also: [[The Gilded Court]], [[Redcaps]], [[On Faeries]]
+See also: [[The Gilded Court]], [[On Redcaps]], [[On Faeries]]
 
 ---
 
@@ -51,7 +51,7 @@ One community in the mortal realm. Insular, self-sufficient, regarded with **sus
 
 ## Uncorrupted Gnomes in the Fey Wild
 
-A small enclave of gnomes remains in the [[Fey Wild]], hidden deep in what has not yet been fully corrupted by [[The Hooded One]]. These are not heroes — they are the ones who fled when the court broke, who hid while their kin became [[Redcaps]]. They carry the full history and they know it. They are survivors who watched from cover.
+A small enclave of gnomes remains in the [[Fey Wild]], hidden deep in what has not yet been fully corrupted by [[The Hooded One]]. These are not heroes — they are the ones who fled when the court broke, who hid while their kin became [[On Redcaps]]. They carry the full history and they know it. They are survivors who watched from cover.
 
 *Notes to expand: their location, how they've survived, what they want, whether they know about the mortal-realm community.*
 

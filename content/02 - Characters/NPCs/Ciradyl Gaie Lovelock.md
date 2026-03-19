@@ -2,6 +2,7 @@
 title: Ciradyl Gaie Lovelock
 tags:
   - npc
+  - infernis
 type: npc
 status: dead
 ---
