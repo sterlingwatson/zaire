@@ -2,7 +2,7 @@
 title: Duchy of Lortia
 tags:
   - location
-type: location
+type: Vassal of Jade Empire
 region: Eastern Solira
 ---
 

@@ -2,7 +2,6 @@
 title: Buzzing Jungle
 tags:
   - location
-  - [location, daggerheart]
 type: location
 ---
 

@@ -2,7 +2,7 @@
 title: Forsynth Desert
 tags:
   - location
-type: location
+type: Wilderness
 region: Central Solira
 ---
 

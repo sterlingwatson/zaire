@@ -2,7 +2,7 @@
 title: Barony of Blanc
 tags:
   - location
-type: location
+type: Vassal of Jade Empire
 region: Far Eastern Solira
 ---
 

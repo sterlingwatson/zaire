@@ -2,7 +2,7 @@
 title: Estuary of Howe
 tags:
   - location
-type: location
+type: City-State
 region: Western Solira
 ---
 

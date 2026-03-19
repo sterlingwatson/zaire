@@ -10,7 +10,7 @@ region: Central Solira
 
 ## Overview
 
-A region in central [[Solira]], south of [[Macilas]]. The [[Pine River Clan]] smuggles wine into Sivania.
+A region in central [[Solira]], south of [[Mycilas]]. The [[Pine River Clan]] smuggles wine into Sivania.
 
 ## Notes
 

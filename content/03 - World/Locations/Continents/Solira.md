@@ -44,7 +44,7 @@ The Elven Empire ruled much of Solira for millennia before its collapse at IR 31
 - **[[Forsynth Desert]]** — Desert region in the central-north
 - **[[Commonwealth of the Radiant Sun]]** — A large nation tied to the [[Cult of the Radiant Sun]]
 - **[[Forest of Blackest Woe]]** — Dark forest in the central region
-- **[[Sivania]]** — Central region south of [[Macilas]]
+- **[[Sivania]]** — Central region south of [[Mycilas]]
 - **[[Kingdom of Gormly]]** — Southern central kingdom
 - **[[Obsidia]]** — Northern territory
 
@@ -56,7 +56,7 @@ The Elven Empire ruled much of Solira for millennia before its collapse at IR 31
 - **[[Merchant's Republic of Veche]]** — Far southeastern trade state
 
 ### Key Cities
-[[Kempeir]] • [[Pearl's Mouth]] • [[Nishunos]] • [[Lucita]] • [[Lu Shin City]] • [[Asulia]] • [[Macilas]] • [[Asulia]]
+[[Kempeir]] • [[Pearl's Mouth]] • [[Nishunos]] • [[Lucita]] • [[Lu Shin City]] • [[Asulia]] • [[Mycilas]] • [[Asulia]]
 
 ---
 

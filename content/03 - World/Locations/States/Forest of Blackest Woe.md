@@ -2,7 +2,7 @@
 title: Forest of Blackest Woe
 tags:
   - location
-type: location
+type: Wilderness
 region: Central Solira
 ---
 

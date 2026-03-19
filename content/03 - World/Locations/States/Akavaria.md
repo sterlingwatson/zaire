@@ -1,16 +1,17 @@
 ---
-title: Akavaria
+title: Kingdom of Akavaria
 tags:
   - location
-type: location
+type: Kingdom
 region: Western Solira (Islands)
+population:
 ---
 
 # Akavaria
 
 ## Overview
 
-An island chain off the western coast of [[Solira]]. Home of the Akavarii — the half-orc half-dragonfly fairy warriors. [[Yathrak]] and the Akavarii raiders originate from here. Lord Protector Morcwell rules the islands.
+An island chain off the western coast of [[Solira]]. Home of the Akavarii. 
 
 ## Notes
 

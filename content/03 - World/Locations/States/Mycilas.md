@@ -1,12 +1,12 @@
 ---
-title: Macilas
+title: Mycilas
 tags:
   - location
 type: location
 region: Central Solira
 ---
 
-# Macilas
+# Mycilas
 
 ## Overview
 

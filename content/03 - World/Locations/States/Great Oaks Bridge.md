@@ -10,7 +10,7 @@ region: South-Eastern Solira
 
 ## Overview
 
-A bridge or settlement in south-eastern [[Solira]], between the [[Kingdom of Gormly]] and the [[Merchant's Republic of Veche]].
+A bridge-settlement in south-eastern [[Solira]], between the [[Kingdom of Gormly]] and the [[Merchant's Republic of Veche]].
 
 ## Notes
 
