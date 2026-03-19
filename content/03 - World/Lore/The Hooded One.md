@@ -18,7 +18,7 @@ The Hooded One is the primary antagonist of the current arc. He is not a single 
 ---
 
 ## Origins
-
+<!--
 ### The Warlock
 
 The Hooded One began as an **[[Aethris]]**, a people associated with [[The Realms Below]] who were tasked with guiding the souls of the dead onward. The Aethris were heavily persecuted by the Elven Empire, because their work implied that the souls of "lesser beings" passed into a form of spiritual immortality — a concept the elves found threatening to their own sense of cosmic superiority.
@@ -40,7 +40,7 @@ What he believed was a partnership was closer to a parasitic relationship. She f
 At some point, the boundary between patron and warlock dissolved entirely. The result is the Hooded One, driven by the warlock's **hatred for the elves** and the patron's hatred for the [[Sehanine]]
 
 In their fusion, both lost their individual restraint.
-
+-->
 ---
 
 ## Motivations
@@ -54,32 +54,30 @@ In their fusion, both lost their individual restraint.
 
 The Hooded One has taken over much of the [[Fey Wild]]. Their hatred is not contained, it **infects**. The corruption spreads through the Fey like a sickness, warping the [[The Thornwood Court]] into feral shadows of themselves, and accelerating the transformation of [[The Gilded Court]] gnomes into [[On Redcaps]].
 
-He has also infected the [[Anchors]] that lock the Fey Wild near the [[Mortal Plane]]. This sets up a dangerous convergence, when the anchors are destroyed, it is hard to say what will happen.
+They have also infected the [[Anchors]] that lock the Fey Wild near the [[Mortal Plane]]. This sets up a dangerous convergence, when the anchors are destroyed, it is hard to say what will happen.
 
 ---
 
 ## Role in the Current Arc
-
+<!--
 The Hooded One is positioned to **kill Sehanine** at the climax of this arc when the anchors are destroyed. Whether this is justice, tragedy, or both is deliberately unresolved.
 
 His relationship to [[Sar'eth]] is worth considering both want the anchors down, but for very different reasons and with very different ends in mind.
+
+-->
 
 ---
 
 ## Relationships
 
-| Person / Entity         | Nature of Relationship                                                        |
-| ----------------------- | ----------------------------------------------------------------------------- |
-| [[Sehanine]]            | Primary target. Deep hatred.                                                  |
-| [[Xail]]                | Target. Led the Great Hunt against the dragons.                               |
-| [[Sar'eth]]             | Uneasy parallel. Similar goals, opposite natures.                             |
-| [[The Hollow Court]]    | Claims to champion them. Is now their second oppressor.                       |
-| [[The Gilded Court]]    | Destroyed their court first and deliberately. Views betrayal as unforgivable. |
-| [[The Thornwood Court]] | His patron's origin. Now fully corrupted under his influence.                 |
-| [[Talara]]              | Does not yet see her as a threat. May come to.                                |
+| Person / Entity      | Nature of Relationship                                                        |
+| -------------------- | ----------------------------------------------------------------------------- |
+| [[Sehanine]]         | Primary target. Deep hatred.                                                  |
+| [[Xail]]             | Target. Led the Great Hunt against the dragons.                               |
+| [[Sar'eth]]          | Uneasy parallel. Similar goals, opposite natures.                             |
+| [[The Gilded Court]] | Destroyed their court first and deliberately. Views betrayal as unforgivable. |
+| [[Talara]]           | Does not yet see her as a threat. May come to.                                |
 
 ---
 
 ## Notes
-
-*Personal notes, session outcomes, and developments go here.*

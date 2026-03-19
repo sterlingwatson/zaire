@@ -8,8 +8,6 @@ type: lore
 
 # Timeline
 
-> *The elves dated everything from the founding of their first city. The rest of the world dates everything from the Campaign of Broken Chains. This disagreement is itself historical.*
-
 *All dates before the fall of the empire use [[Dating Systems|Imperial Reckoning (IR)]]. All dates after use [[Dating Systems|Free Reckoning (FR)]].*
 
 ---
