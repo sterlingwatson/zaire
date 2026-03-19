@@ -30,7 +30,10 @@ This is why [[The Hooded One]]'s takeover of the Fey Wild has hit them hardest o
 
 ## The Patron
 
-[[The Hooded One]]'s fae patron came from the Thornwood Court. She was an ancient being who had watched the elves lock the Fey Wild in place and had been seething ever since. Her pact made with [[Mazz]] allows her to take power from [[The Realms Below]] and ultimately mimic the powers of [[Corvina]]
+[[The Hooded One]]'s fae patron came from the Thornwood Court. She was an ancient being who had watched the elves lock the Fey Wild in place and had been seething ever since. 
+<!--
+Her pact made with [[Mazz]] allows her to take power from [[The Realms Below]] and ultimately mimic the powers of [[Corvina]]
+-->
 
 ---
 
@@ -41,8 +44,9 @@ The Thornwood Court is the most corrupted of the four courts. What was once prim
 - Unicorns that were once healing creatures are hollow, antler-dark things
 - Hags who were once cunning but bounded are now purely predatory
 - The great speaking trees have gone silent or begun to speak in the Hooded One's voice
-
+<!--
 This court cannot be freed the way the [[Chrysalis Court]] can. It cannot have its stories recorded in the way that restores individual fae.
+-->
 
 ---
 
