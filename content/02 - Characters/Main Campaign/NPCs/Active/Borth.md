@@ -12,9 +12,9 @@ age: 28 in 812 FR
 # Borth Rockbiter
 
 ## Basic Info
-- **Location:** [[Nishunos]]
-- **Occupation/Role:** #merc 
-- **Faction/Group:** #independent #rockbiter
+- **Location:** [[Commonwealth of the Radiant Sun]]
+- **Occupation/Role:** 
+- **Faction/Group:** #rockbiter
 - **Status:** Alive
 
 ## Description
@@ -27,9 +27,8 @@ age: 28 in 812 FR
 - **Speech Patterns:** Gruff, but will be prying to get information if she needs it.
 
 ### Motivations
-- **Wants:** To free the [[Commonwealth]] of the influence of Pontifex [[Corippos]] and stop the [[Cult of the Radiant Sun]]
+- **Wants:** To free the [[Commonwealth of the Radiant Sun]] of the influence of Pontifex [[Corippos]] and stop the [[Cult of the Radiant Sun]]
 - **Fears:** Failing in her mission. Dishonor. Spiders Dying alone.
-- **Secrets:** 
 
 ## Relationships
 ### With PCs
@@ -52,8 +51,6 @@ age: 28 in 812 FR
 - 
 
 ## Notes
-### Roleplay Notes
-- 
 
 ### Speeches/Lore given
 

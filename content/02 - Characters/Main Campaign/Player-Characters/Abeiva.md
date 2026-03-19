@@ -2,10 +2,7 @@
 title: Abeiva
 tags:
   - pc
-  - character
   - infernis
-  - imperial
-  - soldier
 type: player-character
 class: Sorcerer
 level: 2

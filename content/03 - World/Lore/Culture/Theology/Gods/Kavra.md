@@ -8,8 +8,6 @@ type: god
 
 # Kavra
 
-> *She does not wait for the world to be ready. She heats the metal and strikes.*
-
 **Domains:** Creation • Shaping • The Forge • Crafting • Gems • Innovation • Precision
 **Titles:** The First Hammer, She Who Shapes, The Gemcutter
 **Relationships:** Wife to [[Orunn]], one half of what the surface religions call [[Or]]

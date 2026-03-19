@@ -1,7 +1,6 @@
 ---
 title: Aethris
 tags:
-  - heritage
   - ancestry
   - mortal-rooted
 type: heritage

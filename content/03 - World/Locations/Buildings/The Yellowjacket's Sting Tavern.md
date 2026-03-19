@@ -2,7 +2,6 @@
 title: The Yellowjacket's Sting Tavern
 tags:
   - location
-  - [location, daggerheart]
 type: location
 ---
 
@@ -10,8 +9,6 @@ type: location
 
 ## Basic Info
 - **Region:** [[Buzzing Jungle]]
-- **Type:** #tavern
-- **Danger Level:** #safe
 - **Population:** about 15 patrons
 
 ## Description

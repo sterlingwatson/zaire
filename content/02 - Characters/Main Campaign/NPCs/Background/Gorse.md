@@ -2,7 +2,6 @@
 title: Gorse
 tags:
   - npc
-  - daggerheart
   - simia
 type: npc
 location: "[[The Yellowjacket's Sting Tavern]]"
@@ -13,7 +12,7 @@ status: alive
 
 ## Basic Info
 - **Location:** [[The Yellowjacket's Sting Tavern]]
-- **Occupation/Role:** #bartender
+- **Occupation/Role:** Bartender
 - **Faction/Group:** 
 - **Status:** Alive
 

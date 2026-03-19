@@ -13,7 +13,7 @@ type: lore
 
 ## Overview
 
-[[Yaaw]] — born from the corpse of [[The One]] — created three realms parallel to the [[Zaire]]: the **[[Fey Wild]]**, the **[[The Hushed Lands|Hushed Lands]]**, and **[[Elysium]]**. These realms do not exist at a fixed distance from the Mortal Plane. They orbit it, in slow cycles, drawing near and pulling away across years and centuries. When a realm draws close, the peoples whose natures are rooted in it feel the change.
+[[Yaaw]], born from the corpse of [[The One]], created three realms parallel to the [[Zaire]]: the **[[Fey Wild]]**, the **[[The Hushed Lands|Hushed Lands]]**, and **[[Elysium]]**. These realms do not exist at a fixed distance from the Mortal Plane. They orbit it, in slow cycles, drawing near and pulling away across years and centuries. When a realm draws close, the peoples whose natures are rooted in it feel the change.
 
 The three realms also serve as the destinations of souls after death, unless a particular god claims a soul to their own plane instead.
 

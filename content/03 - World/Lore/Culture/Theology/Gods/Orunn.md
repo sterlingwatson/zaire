@@ -8,8 +8,6 @@ type: god
 
 # Orunn
 
-> 
-
 **Domains:** Brewing • Endurance • Stone • Earth • Metals • Martial Prowess • Patience • The Deep
 **Titles:** The Unyielding, He Who Holds, The Brewer of Ages
 **Relationships:** Husband to [[Kavra]], the god the surface religions reduced to [[Or]]

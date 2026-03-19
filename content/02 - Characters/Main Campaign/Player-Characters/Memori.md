@@ -4,6 +4,7 @@ tags:
   - pc
   - character
   - human
+  - ghost
 type: player-character
 class: Sorcerer
 level: 4

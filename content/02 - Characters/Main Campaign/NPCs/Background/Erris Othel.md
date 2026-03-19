@@ -2,8 +2,7 @@
 title: Erris
 tags:
   - npc
-  - daggerheart
-  - elf
+  - half-elf
 type: npc
 status: alive
 ---

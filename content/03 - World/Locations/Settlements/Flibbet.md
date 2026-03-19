@@ -2,7 +2,7 @@
 title: Flibbet
 tags:
   - location
-type: location
+type: Town
 region: Western Solira
 ---
 
@@ -10,7 +10,7 @@ region: Western Solira
 
 ## Overview
 
-A settlement in western [[Solira]], near the [[Emirate of Harer]].
+A settlement in western [[Solira]], near the [[Emirate of Harer]] and in the [[Meyshelle Mountains]].
 
 ## Notes
 

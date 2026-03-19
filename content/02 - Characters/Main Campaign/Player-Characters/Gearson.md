@@ -3,6 +3,7 @@ title: Gearson
 tags:
   - pc
   - character
+  - goblin
 type: player-character
 player: "#ben"
 ---

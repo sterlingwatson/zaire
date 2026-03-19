@@ -2,7 +2,6 @@
 title: Asel
 tags:
   - god
-  - npc
 type: npc
 faction: Elven and Fay Godess of Sun, Daylight, Agriculture
 status: alive

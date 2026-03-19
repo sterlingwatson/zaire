@@ -2,7 +2,6 @@
 title: Vermillion Way
 tags:
   - location
-  - daggerheart
 type: location
 region: "[[Lu Shin City]]"
 ---
@@ -12,8 +11,7 @@ region: "[[Lu Shin City]]"
 ## Basic Info
 - **Region:** [[Lu Shin City]]
 - **Type:** #neighborhood
-- **Danger Level:** #safe
-- **Population:** 3673
+- **Population:** 5673
 
 ## Description
 ### Visual Description

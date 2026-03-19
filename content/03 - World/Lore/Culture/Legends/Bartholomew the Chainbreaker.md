@@ -1,13 +1,13 @@
 ---
 title: Bartholomew the Chainbreaker
 tags:
-  - lore
-type: lore
+  - culture
+type: legend
 ---
 
 # Bartholomew the Chainbreaker
 
-> *Legend says she locked the dragon away and saved the world. The truth is stranger and kinder than the legend.*
+> *Legend says she locked the dragon away and saved the world.
 
 ---
 
@@ -34,7 +34,7 @@ It is not what happened.
 ---
 
 ## The Secret
-
+<!--
 Bartholomew and [[Sar'eth]] **made a deal.**
 
 Both of them understood what the other understood: that the world emerging from the collapse of both the Elven Empire and dragonkind was too fragile to be shaped by either of them. A liberated world with Bartholomew as its living hero-founder would not be free, it would be hers. A world with Sar'eth present would spend its first centuries in terror of her regardless of his intentions. Neither of them could give the world what it needed, which was the space to decide its own destiny.
@@ -44,24 +44,24 @@ The agreement was to fuse their consciousnesses together and seal themselves awa
 What this cost each of them, what the fusion of a mortal hero's consciousness with a dragon's is like across eight centuries, and what Sar'eth and Bartholomew are to each other now these are open questions.
 
 *Notes to expand: Bartholomew's specific background and species, which peoples she came from, whether she had a patron god, what she knew about the Lucitans and the volcano before the deal was made.*
-
+-->
 ---
 
 ## The Bloodline
 
 Bartholomew had descendants before she sealed herself away. Her lineage has been politically significant ever since a name that confers legitimacy, a bloodline that various powers have claimed, married into, or manufactured connections to across eight centuries.
 
-The current inheritor of that bloodline leads the [[The Cult of the Radiant Sun]]. Whether the family has always been moving in this direction or whether this is a recent corruption of a more honorable lineage is worth deciding.
-
-*Notes to expand: how many generations, whether the family has maintained power continuously or risen and fallen, what they actually know about what Bartholomew did.*
+The current inheritor of that bloodline leads the [[The Cult of the Radiant Sun]]. 
 
 ---
 
 ## What Bartholomew Knew About the Lucitans
-
+<!--
 This is unresolved but significant. Bartholomew worked alongside the Aethris, [[Corvina]]'s people. Whether she knew the specific history of the [[Lucitans]] and their role at the volcano is uncertain. Whether Sar'eth told her, during or after their deal, is also uncertain.
 
 If she knew, she chose to seal herself away anyway, leaving the Lucitans still in place above the volcano. What she thought she was leaving them to, or whether she believed the cult would eventually end on its own, is a question [[Talara]] may want to ask her.
+
+-->
 
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Firbolg
 tags:
-  - heritage
   - ancestry
   - fey-rooted
 type: heritage
-realm_attunement: "Fey Wild (Fey-Rooted)"
+realm_attunement: Fey Wild (Fey-Rooted)
 homebrew: false
 ---
 

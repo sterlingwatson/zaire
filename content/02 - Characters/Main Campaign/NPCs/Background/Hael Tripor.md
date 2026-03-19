@@ -17,7 +17,7 @@ status: alive
 - **Age:** 50
 ## Description
 ### Physical Appearance
-- He is a #faun with curly rams horns. He has white-grey fur and a shaven face. He dresses in a tradtional Kivitange nobles dress like:
+- He is a #faun with curly rams horns. He has white-grey fur and a shaven face. He dresses in a traditional Kivitange nobles dress like:
   
   ![[Pasted image 20251025111554.png]]
 - 

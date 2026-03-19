@@ -2,7 +2,6 @@
 title: Luminos Caverns
 tags:
   - location
-  - [location, daggerheart]
 type: location
 ---
 

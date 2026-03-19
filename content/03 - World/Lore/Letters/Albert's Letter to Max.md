@@ -2,7 +2,7 @@
 title: Albert's Letter to Max
 tags:
   - lore
-type: lore
+type: letter
 ---
 
 Dearest Brother,

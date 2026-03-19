@@ -12,7 +12,6 @@ region: Kavittany
 ## Basic Info
 - **Region:** [[Kingdom of Kavittany]]
 - **Type:** Capitol #city
-- **Danger Level:** 
 - **Population:** ~21000
 
 ## Description

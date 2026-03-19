@@ -2,6 +2,7 @@
 title: Princess Doris Ramhorn
 tags:
   - npc
+  - human
 type: npc
 status: alive
 ---
@@ -44,7 +45,6 @@ status: alive
 - As she grew older and her responsibilities changed she asked to be captain of the city guard, which she operates as now. 
 
 ## Sessions Appeared
-- 
 - 
 
 ## Notes

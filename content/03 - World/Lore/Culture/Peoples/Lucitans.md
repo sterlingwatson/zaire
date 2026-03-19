@@ -2,8 +2,7 @@
 title: Lucitans
 tags:
   - lore
-  - faction
-type: lore
+type: peoples
 ---
 
 # The Lucitans

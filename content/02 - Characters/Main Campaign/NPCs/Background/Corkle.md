@@ -2,6 +2,7 @@
 title: Corkle
 tags:
   - npc
+  - goblin
 type: npc
 status: alive
 ---
@@ -9,10 +10,7 @@ status: alive
 # Corkle
 
 ## Basic Info
-- **Location:** [[Buzzing Jungle]] [[Buzzing Jungle Goblin Camp]]
-- **Occupation/Role:** #scavanger
-- **Faction/Group:** #goblin 
-- **Status:** Alive
+- **Location:** [[Buzzing Jungle]] 
 
 ## Description
 ### Physical Appearance
@@ -28,27 +26,7 @@ status: alive
 - **Fears:** Being alone, being eaten by a hawk, being found by the queen.
 
 ## Relationships
-### With PCs
-- **PC NAME:** Relationship description
-- 
 
-### With Other NPCs
-- **[[Smark]]:** Partner Of
-- 
-
-## Story Hooks
-- 
-- 
-
-## Sessions Appeared
-- 
-
-## Notes
-### Roleplay Notes
-- 
-
-### Plot Connections
-- 
 
 ---
 *Created: 2025-08-09*

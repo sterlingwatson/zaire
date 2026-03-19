@@ -1,8 +1,8 @@
 ---
 title: Funerals in the South-Western Part of Zaire
 tags:
-  - lore
-type: lore
+  - culture
+type: customs
 ---
 
 In much of [[Zaire]] [[Yaaw]] is the patron god of death, and it is his priests that help to guide the souls on to the afterlife in the person respective place.

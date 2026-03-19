@@ -2,16 +2,14 @@
 title: Lucita
 tags:
   - location
-type: location
+type: village
 ---
 
 # Lucita
 
 ## Basic Info
 - **Region:** [[Meyshelle Mountians]]
-- **Type:** #village 
-- **Danger Level:** ???
-- **Population:** ???
+- **Population:** 0
 
 ## Description
 ### Visual Description

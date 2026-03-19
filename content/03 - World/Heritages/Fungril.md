@@ -1,11 +1,10 @@
 ---
 title: Fungril
 tags:
-  - heritage
   - ancestry
   - land-born
 type: heritage
-realm_attunement: "None (Land-Born — unaffected by orbital cycles)"
+realm_attunement: None (Land-Born — unaffected by orbital cycles)
 homebrew: false
 ---
 

@@ -35,10 +35,10 @@ status: alive
 - 
 
 ### With Other NPCs
-- [[Fizbit]]: Father
-- [[Glim]]: Father
-- [Zilla]: Husband
-- [[Lore]]: Father
+- [[Fizbit]]
+- [[Glim]]
+- [Zilla]
+- [[Lore]]
 
 ## Story Hooks
 - 

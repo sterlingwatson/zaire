@@ -1,11 +1,10 @@
 ---
 title: Clank
 tags:
-  - heritage
   - ancestry
   - land-born
 type: heritage
-realm_attunement: "None (Constructed)"
+realm_attunement: None (Constructed)
 homebrew: false
 ---
 

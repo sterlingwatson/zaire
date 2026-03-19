@@ -1,9 +1,7 @@
 ---
 title: Gnome
 tags:
-  - heritage
   - ancestry
-  - homebrew
   - fey-rooted
 type: heritage
 realm_attunement: Fey Wild (Fey-Rooted)

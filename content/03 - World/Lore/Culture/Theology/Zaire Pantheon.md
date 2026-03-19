@@ -2,6 +2,7 @@
 title: The 13 Major Gods of the Zaire Pantheon
 tags:
   - lore
+  - cosmology
 type: lore
 ---
 

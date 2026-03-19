@@ -1,12 +1,10 @@
 ---
 title: Kobold
 tags:
-  - heritage
   - ancestry
-  - homebrew
   - draconic-rooted
 type: heritage
-realm_attunement: "Elysium (Draconic-Rooted)"
+realm_attunement: Elysium (Draconic-Rooted)
 homebrew: true
 ---
 

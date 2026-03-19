@@ -1,11 +1,10 @@
 ---
 title: Simia
 tags:
-  - heritage
   - ancestry
   - mortal-rooted
 type: heritage
-realm_attunement: "Hushed Lands (Mortal-Rooted)"
+realm_attunement: Hushed Lands (Mortal-Rooted)
 homebrew: false
 ---
 

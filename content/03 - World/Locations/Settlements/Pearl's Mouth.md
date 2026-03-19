@@ -2,7 +2,6 @@
 title: Pearl's Mouth
 tags:
   - location
-  - daggerheart
   - village
 type: location
 region: Kavittany
@@ -12,7 +11,6 @@ region: Kavittany
 
 ## Basic Info
 - **Region:**  [[Kingdom of Kavittany]]
-- **Type:** #village
 - **Population:** ~580
 
 ## Description
@@ -50,30 +48,12 @@ region: Kavittany
 - **Connections:** 
 
 ## NPCs Present
-- **** -
+- **** 
 - 
-
-## Threats & Adversaries
-- **** - 
-- 
-
-## Resources & Services
-- **Shops:** 
-- **Inns/Lodging:** 
-- **Services:** 
-- **Transportation:** 
-
-## Plot Hooks
-- 
-- 
-
 ## Sessions Visited
 - 
 - 
 
-## Secrets & Hidden Elements
-- 
-- 
 
 ---
 *Created: 2025-08-27*

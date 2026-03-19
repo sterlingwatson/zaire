@@ -2,8 +2,6 @@
 title: Kingdom of Kavittany
 tags:
   - faction
-  - location
-  - daggerheart
 type: Nation
 region: Solira
 ---

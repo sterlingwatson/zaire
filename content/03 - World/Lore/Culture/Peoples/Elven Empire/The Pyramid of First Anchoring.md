@@ -1,13 +1,13 @@
 ---
 title: The Pyramid of First Anchoring
 tags:
-  - lore
-type: lore
+  - culture
+type: architecture
 ---
 
 # The Pyramid of First Anchoring
 
-> *The elves built it to celebrate. They recorded everything they had learned about the courts, their seasons, their natures, their vulnerabilities. They called it scholarship. They called it achievement. They put it in stone so it would last forever.*
+> *The elves built it to celebrate. They recorded everything they had learned about the courts, their seasons, their natures, their vulnerabilities. They called it scholarship. 
 
 ---
 
@@ -83,12 +83,6 @@ The air hums. Fae energy bleeds through the anchor constantly. The walls are war
 
 The rings are not a fae ritual device. They are an **elven attunement mechanism.** When the anchor was first set, elven mages used these rings to calibrate its suppression to each court, demonstrating sufficient knowledge of each court's nature to lock it precisely. The rings allowed them to target the anchor's suppression with the specificity that made it so effective.
 
-To open the Crystalline Iris and access the anchor, the mechanism must be run in reverse. The rings must be aligned to the **correct seasonal position for the court whose sacred ground this is.**
-
-The correct alignment is the Chrysalis Court's: **Spring / Rain / Blossoms.**
-
-The elves chose Spring because it was the moment of maximum vulnerability. To align the rings to Spring now is to acknowledge that choice and undo it.
-
 ### The Outer Ring — Climate
 Four positions: Spring, Summer, Autumn, Winter.
 
@@ -98,20 +92,9 @@ Corresponding courts as the elves mapped them:
 - Autumn → [[The Gilded Court]]
 - Winter → [[The Thornwood Court]]
 
-**Current position when the party enters:** Autumn. The Gilded Court's season. The anchor was last calibrated here, during the height of the empire, when the collaboration was at its peak.
 
 **The plinth inscription (in Elvish and Common):**
 *"The outer mechanism turns for what was given before consent was possible."*
-
-The elven intent was for their mages to demonstrate knowledge of a court's origin and nature. What the pyramid actually accepts is something more personal; a truth about what was decided for you before you had a voice.
-
-When the ring moves toward Spring, the air softens. Something that might be a blossom scent. The carved dead tree above the apex door seems almost — not quite — to have something at its tip.
-
-When the ring moves toward Winter, temperature drops sharply. The Thornwood imagery along the walls shifts in peripheral vision.
-
-When the ring moves toward Summer, the room becomes thick and hot. The south wall's ledger-panel seems to pulse faintly.
-
-When the ring moves toward Autumn, a smell of woodsmoke and decay. The Gilded Court panel seems to darken even in unchanged light.
 
 ### The Middle Ring — Element
 Four positions: Rain, Heat, Wind, Ice.
@@ -124,10 +107,6 @@ Corresponding courts:
 
 **The plinth inscription:**
 *"The middle mechanism turns for what you are moving toward and what that movement requires you to leave."*
-
-The elven intent was to demonstrate knowledge of a court's elemental nature. What the pyramid accepts is the confession of transformation — what you are becoming and what it will cost. The mechanism reads the emotional truth of what's said, not the words themselves.
-
-Aligning this ring costs the speaker something regardless of success. The elven mages marked this in their records as an "acceptable toll." It is not a trap; it is simply what the mechanism requires.
 
 ### The Inner Ring — Flora
 Four positions: Blossoms, Vines, Dead Wood, Evergreens.
@@ -143,22 +122,10 @@ Corresponding courts:
 **The plinth inscription:**
 *"The inner mechanism turns for what cannot be excused. Only owned."*
 
-The elven intent was to demonstrate complete mastery of a court's nature — the capstone of the attunement ritual. What the pyramid requires is accountability without justification. The mechanism is the most resistant of the three. It was designed to be operated by people with certainty. It does not know what to do with genuine reckoning, and it will resist before it yields.
-
-**If no player can provide this authentically:** A faint impression of a [[Gilded Court]] gnome may appear at the plinth — an echo burned into the mechanism from the original attunement. It will offer to provide the confession in the party's place. The Iris will open, but cracked. The anchor is accessible but the release will be unstable. The GM determines the consequence.
-
 ---
 
 ## Talara's Absence
 
-[[Talara]] is pulled into the [[Hedge]] by [[The Pharaoh]] at the pyramid's entrance — before she reaches the Calibration Chamber. The party must solve the puzzle without her.
-
-This is deliberate. The answer to the puzzle is built from everything Talara has told the party during her journey — every fae she has found, every court she has explained, every piece of the Chronicle she has shared. Her absence forces the party to become her memory. What they retained from her journey is their answer key.
-
-When Talara and the party reconvene after the Iris is opened, they will have reached the same truths from different directions at the same time. This is the structure of the scene.
+[[Talara]] is pulled into the [[Hedge]] by [[The Pharaoh]] at the pyramid's entrance, before she reaches the Calibration Chamber. The party must solve the puzzle without her.
 
 ---
-
-## Notes
-
-*Session outcomes, player solutions, how the Sentinel encounter resolved, condition of the anchor when destroyed, go here.*

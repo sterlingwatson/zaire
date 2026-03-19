@@ -2,7 +2,6 @@
 title: Fizbit
 tags:
   - npc
-  - daggerheart
   - goblin
 type: npc
 status: alive
@@ -14,7 +13,6 @@ status: alive
 - **Location:** 
 - **Occupation/Role:** 
 - **Faction/Group:** 
-- **Status:** Alive/Dead/Unknown
 
 ## Description
 ### Physical Appearance

@@ -2,7 +2,6 @@
 title: Heritages
 tags:
   - index
-  - heritage
 ---
 
 # Heritages

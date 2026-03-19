@@ -2,8 +2,6 @@
 title: Sehanine
 tags:
   - god
-  - npc
-  - daggerheart
 type: npc
 location: Realms Above
 faction: gods

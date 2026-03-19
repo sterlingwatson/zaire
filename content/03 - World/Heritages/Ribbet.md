@@ -1,11 +1,10 @@
 ---
 title: Ribbet
 tags:
-  - heritage
   - ancestry
   - draconic-rooted
 type: heritage
-realm_attunement: "Elysium (Draconic-Rooted)"
+realm_attunement: Elysium (Draconic-Rooted)
 homebrew: false
 ---
 

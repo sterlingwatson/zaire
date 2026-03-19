@@ -2,12 +2,10 @@
 title: Cira Letter
 tags:
   - lore
-  - letter
-type: lore
+type: letter
 ---
 
 *A letter written from [[Ciradyl Gaie Lovelock]] to [[Maximus Lovelock II]]* 
-#letter #item #lore
 
 Max,
 

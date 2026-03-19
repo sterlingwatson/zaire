@@ -2,7 +2,6 @@
 title: Jade Empire
 tags:
   - location
-  - empire
 type: location
 region: Eastern Solira
 ---

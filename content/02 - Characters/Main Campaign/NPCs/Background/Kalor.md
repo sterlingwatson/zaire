@@ -2,7 +2,6 @@
 title: Kalor
 tags:
   - npc
-  - daggerheart
   - galapa
 type: npc
 location: "[[The Yellowjacket's Sting Tavern]]"
@@ -13,7 +12,7 @@ status: alive
 
 ## Basic Info
 - **Location:** [[The Yellowjacket's Sting Tavern]]
-- **Occupation/Role:** #innkeeper #gardener
+- **Occupation/Role:** innkeeper
 - **Faction/Group:** 
 - **Status:** Alive
 

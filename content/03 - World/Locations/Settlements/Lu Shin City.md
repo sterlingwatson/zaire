@@ -11,7 +11,7 @@ region: Eastern Solira
 
 ## Overview
 
-A city in the eastern part of [[Solira]], near the [[Jade Empire]] border.
+A city in the eastern part of [[Solira]], in the [[Jade Empire]].
 
 ## Notes
 
