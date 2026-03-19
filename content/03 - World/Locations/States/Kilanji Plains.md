@@ -1,5 +1,5 @@
 ---
-title: Kifanji Plains
+title: Kilanji Plains
 tags:
   - location
 type: location

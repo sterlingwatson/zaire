@@ -1,13 +1,14 @@
 ---
-title: "Memori"
+title: Memori
 tags:
   - pc
   - character
+  - human
 type: player-character
-class:
-level:
-player:
-date-made: "2026-03-19"
+class: Sorcerer
+level: 4
+player: Carmen
+date-made: 2026-03-19
 ---
 
 # Memori
@@ -19,7 +20,7 @@ date-made: "2026-03-19"
 * **Level: 4**
 * **Ancestry: Human**
 * **Community: Loreborne**
-* **Hometown: Port Dlo'jele**
+* **Hometown: [[Port Dlo'jele]]**
 * **Age: 28**
 
 ## Experiences \& Backstory
@@ -32,7 +33,7 @@ date-made: "2026-03-19"
 
 ### Backstory
 
-Memori grew up in the port town of Dlo'jele in the Barony of Blanc towards the northern region of the county. From a young age, he and his mother bounced from house to house, working as housekeepers. Eventually, they became the permanent housekeepers for a grand sorcerer named Ovid in his private atelier. Memori quickly took an interest in the mage's studies, often sneaking off into the night just to watch him practice.
+Memori grew up in the port town of [[Port Dlo'jele|Dlo'jele]] in the [[Barony of Blanc]] towards the northern region of [[Solira]]. From a young age, he and his mother bounced from house to house, working as housekeepers. Eventually, they became the permanent housekeepers for a grand sorcerer named Ovid in his private atelier. Memori quickly took an interest in the mage's studies, often sneaking off into the night just to watch him practice.
 
 During one particularly harsh winter, Memori forgot to close the windows of their cottage, and his mother came down with a nasty illness before shortly dying. Taking pity on the now orphaned boy, Ovid took Memori in as one of his many apprentices. Over the years, Memori studied rigorously, often to the detriment of his own health, yet he always fell behind his peers. He isolated himself out of insecurity, with his one true companion being a young woman named Ebony. 
 
@@ -79,16 +80,16 @@ One evening, Ovid tasked Memori with helping him cast a difficult spell, hoping 
 
 ### Relationships
 
-* Misty
-* Klix
-* Wart
-* Talara
-* Gearson
-* Sphesia
-* Grand Sorcerer Ovid
+* [[Misty]] - Party Companion 
+* [[Klix]] - Party Companion 
+* [[Wart]] - Party Companion 
+* [[Talara]] - Party Companion 
+* [[Gearson]] - Party Companion 
+* [[Queen Sphesia|Sphesia]] - "Body Sharer, Friend?"
+* [[Grand Sorcerer Ovid]] - Mentor
 
 ### Goals
 
 * To find the hag who stole his body and become fully human again.
-* Ensuring Grand Sorcerer Ovid's health is safe and to repay his debt for being taken under his wing.
-* Stopping the Hooded One from corrupting the mortal realm. 
+* Ensuring [[Grand Sorcerer Ovid]]'s health is safe and to repay his debt for being taken under his wing.
+* Stopping the [[The Hooded One]] from corrupting the mortal realm. 

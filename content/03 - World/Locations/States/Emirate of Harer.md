@@ -1,5 +1,5 @@
 ---
-title: Estuary of Howe
+title: Emirate of Harer
 tags:
   - location
 type: City-State
