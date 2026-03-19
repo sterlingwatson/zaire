@@ -45,14 +45,8 @@ status: alive
 
 ## Sessions Appeared
 - 
-- 
 
 ## Notes
-### Roleplay Notes
-- 
-
-### Plot Connections
-- 
 
 ---
 *Created: 2025-10-25*

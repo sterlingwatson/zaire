@@ -2,7 +2,6 @@
 title: Yathrak
 tags:
   - npc
-  - [npc, daggerheart]
 type: npc
 status: alive
 ---

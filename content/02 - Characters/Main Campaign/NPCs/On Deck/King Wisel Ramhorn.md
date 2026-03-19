@@ -2,7 +2,7 @@
 title: King Wisel Ramhorn
 tags:
   - npc
-  - [npc, daggerheart]
+  - human
 type: npc
 status: alive
 ---

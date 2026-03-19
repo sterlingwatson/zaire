@@ -1,12 +1,18 @@
 ---
-title: 
+title: Torris
 tags:
+  - aethris
+  - legendary-heroes
   - pc
   - character
 type: player-character
+class:
+level:
+player:
+date-made: 2026-03-18
 ---
 
-# {{Klix}}
+# Torris
 
 ## Basic Info
 - **Player:** 
@@ -14,21 +20,14 @@ type: player-character
 - **Level:** 
 - **Ancestry:** 
 - **Community:** 
-- **Hometown**:
-- **Height**:
-- **Age**:
-
-
+- **Age:** 
 ## Experiences & Backstory
-### Experiences 
--  
--  
--  
--  
--  
+
+### Experiences
+- 
 
 ### Backstory
-**Description:** 
+
 
 ## Stats
 - **Max HP:** 
@@ -38,40 +37,23 @@ type: player-character
 - **Severe Threshold:** 
 
 ### Attributes
-- **Agility:** 
-- **Strength:**
-- **Finesse:**
-- **Instinct:**
-- **Presence:**
-- **Knowledge:**
+| Agility | Strength | Finesse | Instinct | Presence | Knowledge |
+| ------- | -------- | ------- | -------- | -------- | --------- |
+|         |          |         |          |          |           |
 
 ## Domains
-- **Domain 1:** 
-- **Domain 2:** 
-
-## Abilities
-### Foundation Moves
-- 
-
-### Class Features
-- 
-
-### Subclass Features
-- 
 
 ## Equipment
+
 ### Weapons
 - 
-
 ### Armor
 - 
-
 ### Other Gear
 - 
-
 ## Notes
-### Character Development
 - 
+### Character Development
 
 ### Relationships
 - 
@@ -79,5 +61,3 @@ type: player-character
 ### Goals
 - 
 
----
-*Last Updated: 2025-10-22*

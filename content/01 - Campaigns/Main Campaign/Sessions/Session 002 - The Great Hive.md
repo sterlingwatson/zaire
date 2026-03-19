@@ -47,7 +47,7 @@ As Klix and Abeiva reach the inner sanctum [[Queen Sphesia]] tries to finish the
 
 Back in the chambers [[Wart]] has convinced Borth to leave the combat. As she is leaving she imparts information to Wart that there is a secret passage into the mountains, yet she is not able to break her word and attack the queens forces. 
 
-Regrouping upstairs to finish off [[Tha'pal]] the heroes are battered but she will not give up. Eventually [[Tha'pal]] is able to kill Wart. In that moment between life and death Wart sees his childhood friend [[Tabatha]] pointing up into the constellations telling the story of Wart as a hero like [[Bartholomew]]. Wart chooses not to die though and is later healed. 
+Regrouping upstairs to finish off [[Tha'pal]] the heroes are battered but she will not give up. Eventually [[Tha'pal]] is able to kill Wart. In that moment between life and death Wart sees his childhood friend [[Tabatha]] pointing up into the constellations telling the story of Wart as a hero like [[99 - Archive/Bartholomew]]. Wart chooses not to die though and is later healed. 
 
 [[Abeiva]] again is able to finish Tha'pal with a rapier to the neck finishing the fight. As dawn begins to rise fireworks go off from the jungle signaling an [[Akavarii]] attack. Our heroes grab the loot and head for the secret passage where we find ourselves now.
 

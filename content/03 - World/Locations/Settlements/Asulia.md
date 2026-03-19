@@ -1,12 +1,11 @@
 ---
-title: Asulia
+title: Helliog Bay City
 tags:
   - location
   - city
-  - capitol
 type: location
+region: Southern Solira
 ---
-
 # Asulia
 
 ## Basic Info

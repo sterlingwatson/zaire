@@ -21,7 +21,7 @@ The gang all went down the the [[Kempeir Wharf]] to get paid by the [[Iron Eels]
 
 [[Misty]] walked with [[Talara]] off to meet [[Daria]] at the temple to Ennem. She met up with Daria and got a few more answers, but nothing was really set firm. She did find that Daria and her new crew had at least some parallel interests. Misty headed off for a meeting later in the day with [[Vexsalu Tzikma]].
 
-[[Wart]] was going to head off the the [Hotel de Hero] to pay his repects to [[Bartholomew]] where he met [[B.A.R.T.]] (Bard Automota for Reducing Tyranny) who doubted Wart's commitment to living up to [[Bartholomew]]'s ideal challenging him to a duel of good deeds, which Wart took him up on. Through the rest of the session we had vinettes of their competition which ended in a tie.
+[[Wart]] was going to head off the the [Hotel de Hero] to pay his repects to [[99 - Archive/Bartholomew]] where he met [[B.A.R.T.]] (Bard Automota for Reducing Tyranny) who doubted Wart's commitment to living up to [[99 - Archive/Bartholomew]]'s ideal challenging him to a duel of good deeds, which Wart took him up on. Through the rest of the session we had vinettes of their competition which ended in a tie.
 
 [[Talara]] went off to the temple to [[Sehanine]] where she gain divine insight into her quest. Though upon leaving she was confronted by a mysterious Lucitan like her who immediately flew in to attack her. She was accused of abandoing her people in their greatest need, and he had to scarific everything to protect them. He claimed to be responsible for her parents survival. [[Talara]] choose not to fight him and instead flew off. Once the gaurds caught wind the attacker fled. [[Talara]] spent the rest of the day reflecting.
 

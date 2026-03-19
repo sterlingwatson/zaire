@@ -9,7 +9,7 @@ status: alive
 ---
 
 # Torpor Gaie
-
+<!-- GM Only
 ## Basic Info
 - **Location:** 
 - **Occupation/Role:** 
@@ -44,7 +44,7 @@ status: alive
 ## Sessions Appeared
 - 
 - 
-
+-->
 ## Notes
 ### Roleplay Notes
 - 

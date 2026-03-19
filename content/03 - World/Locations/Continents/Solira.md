@@ -56,7 +56,7 @@ The Elven Empire ruled much of Solira for millennia before its collapse at IR 31
 - **[[Merchant's Republic of Veche]]** — Far southeastern trade state
 
 ### Key Cities
-[[Kempeir]] • [[Pearl's Mouth]] • [[Nishunos]] • [[Lucita]] • [[Lu Shin City]] • [[Helliog Bay City]] • [[Macilas]] • [[Asulia]]
+[[Kempeir]] • [[Pearl's Mouth]] • [[Nishunos]] • [[Lucita]] • [[Lu Shin City]] • [[Asulia]] • [[Macilas]] • [[Asulia]]
 
 ---
 

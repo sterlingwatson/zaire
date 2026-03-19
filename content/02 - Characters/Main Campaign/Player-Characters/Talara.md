@@ -1,12 +1,16 @@
 ---
-title: 
+title: Talara
 tags:
   - pc
   - character
+  - fairy
 type: player-character
+class:
+level:
+player:
+date-made: 2026-03-18
 ---
-
-# {{Talara}}
+# Talara
 
 ## Basic Info
 - **Player:** 
@@ -14,21 +18,15 @@ type: player-character
 - **Level:** 
 - **Ancestry:** 
 - **Community:** 
-- **Hometown**:
-- **Height**:
-- **Age**:
-
-
+- **Hometown:** 
+- **Age:** 
 ## Experiences & Backstory
-### Experiences 
--  
--  
--  
--  
--  
+
+### Experiences
+- 
 
 ### Backstory
-**Description:** 
+
 
 ## Stats
 - **Max HP:** 
@@ -38,47 +36,27 @@ type: player-character
 - **Severe Threshold:** 
 
 ### Attributes
-- **Agility:** 
-- **Strength:**
-- **Finesse:**
-- **Instinct:**
-- **Presence:**
-- **Knowledge:**
+| Agility | Strength | Finesse | Instinct | Presence | Knowledge |
+| ------- | -------- | ------- | -------- | -------- | --------- |
+|         |          |         |          |          |           |
 
 ## Domains
-- **Domain 1:** 
-- **Domain 2:** 
-
-## Abilities
-### Foundation Moves
-- 
-
-### Class Features
-- 
-
-### Subclass Features
-- 
 
 ## Equipment
+
 ### Weapons
 - 
-
 ### Armor
 - 
-
 ### Other Gear
 - 
-
 ## Notes
-### Character Development
 - 
+### Character Development
 
 ### Relationships
 - [[Talina]] - Mother
-- [[Storn]] - Father
+-  [[Storn]] - Father
 
 ### Goals
 - 
-
----
-*Last Updated: 2025-08-28*
